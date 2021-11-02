@@ -13,3 +13,13 @@ Step 4. Start binancetest.js in another terminal: $node binancesim.js
 Step 5. In 3rd Terminal run curl command: $ curl http://localhost:3000/api/mywebhook 
 
 ![alt text](https://github.com/Crypto69/webhooktesting/blob/bd27e2bf6e5b7206c9e29d36afc6319355c373ff/images/curl%20terminal.png?raw=true)
+
+After running this command you should see output appear in the terminal from Step 3 and Step 4
+
+In the terminal you run index.js you will see
+
+![alt text](https://github.com/Crypto69/webhooktesting/blob/bd27e2bf6e5b7206c9e29d36afc6319355c373ff/images/index%20terminal.png?raw=true)
+
+In the terminal you run binancetest.js you will see
+
+![alt text](https://github.com/Crypto69/webhooktesting/blob/bd27e2bf6e5b7206c9e29d36afc6319355c373ff/images/binancesim%20terminal.png?raw=true)
