@@ -1,7 +1,7 @@
 # Async Weebhooks and Fastify
 
 Some sample application code to test Fastify and asynchrounous web hook handling and call back timing.
-Code simulates a webhook API call inbound. The main index.js app then in turn makes a number or async outbound HTTP Posts to simulated trading endpoint.
+Code simulates a webhook API call inbound. The main index.js app then in turn makes a number or async outbound HTTP Posts to simulated trading endpoint. Each end point will take a random amount of time between minDelay and maxDelay.
 
 ---
 ## Requirements
